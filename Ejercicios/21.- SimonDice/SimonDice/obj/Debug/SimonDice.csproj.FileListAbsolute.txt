@@ -7,3 +7,14 @@ c:\users\pc\documents\visual studio 2012\Projects\SimonDice\SimonDice\obj\Debug\
 c:\users\pc\documents\visual studio 2012\Projects\SimonDice\SimonDice\obj\Debug\SimonDice.exe
 c:\users\pc\documents\visual studio 2012\Projects\SimonDice\SimonDice\obj\Debug\SimonDice.pdb
 c:\users\pc\documents\visual studio 2012\Projects\SimonDice\SimonDice\obj\Debug\SimonDice.csprojResolveAssemblyReference.cache
+D:\DI\SimonDice\Ejercicios\21.- SimonDice\SimonDice\bin\Debug\SimonDice.exe.config
+D:\DI\SimonDice\Ejercicios\21.- SimonDice\SimonDice\bin\Debug\SimonDice.exe
+D:\DI\SimonDice\Ejercicios\21.- SimonDice\SimonDice\bin\Debug\SimonDice.pdb
+D:\DI\SimonDice\Ejercicios\21.- SimonDice\SimonDice\obj\Debug\SimonDice.csproj.AssemblyReference.cache
+D:\DI\SimonDice\Ejercicios\21.- SimonDice\SimonDice\obj\Debug\SimonDice.csproj.SuggestedBindingRedirects.cache
+D:\DI\SimonDice\Ejercicios\21.- SimonDice\SimonDice\obj\Debug\SimonDice.Form1.resources
+D:\DI\SimonDice\Ejercicios\21.- SimonDice\SimonDice\obj\Debug\SimonDice.Properties.Resources.resources
+D:\DI\SimonDice\Ejercicios\21.- SimonDice\SimonDice\obj\Debug\SimonDice.csproj.GenerateResource.cache
+D:\DI\SimonDice\Ejercicios\21.- SimonDice\SimonDice\obj\Debug\SimonDice.csproj.CoreCompileInputs.cache
+D:\DI\SimonDice\Ejercicios\21.- SimonDice\SimonDice\obj\Debug\SimonDice.exe
+D:\DI\SimonDice\Ejercicios\21.- SimonDice\SimonDice\obj\Debug\SimonDice.pdb
