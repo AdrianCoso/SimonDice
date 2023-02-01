@@ -18,3 +18,14 @@ D:\DI\SimonDice\Ejercicios\21.- SimonDice\SimonDice\obj\Debug\SimonDice.csproj.G
 D:\DI\SimonDice\Ejercicios\21.- SimonDice\SimonDice\obj\Debug\SimonDice.csproj.CoreCompileInputs.cache
 D:\DI\SimonDice\Ejercicios\21.- SimonDice\SimonDice\obj\Debug\SimonDice.exe
 D:\DI\SimonDice\Ejercicios\21.- SimonDice\SimonDice\obj\Debug\SimonDice.pdb
+D:\cosomeister\dam\di\simondice\Ejercicios\21.- SimonDice\SimonDice\bin\Debug\SimonDice.exe.config
+D:\cosomeister\dam\di\simondice\Ejercicios\21.- SimonDice\SimonDice\bin\Debug\SimonDice.exe
+D:\cosomeister\dam\di\simondice\Ejercicios\21.- SimonDice\SimonDice\bin\Debug\SimonDice.pdb
+D:\cosomeister\dam\di\simondice\Ejercicios\21.- SimonDice\SimonDice\obj\Debug\SimonDice.csproj.AssemblyReference.cache
+D:\cosomeister\dam\di\simondice\Ejercicios\21.- SimonDice\SimonDice\obj\Debug\SimonDice.csproj.SuggestedBindingRedirects.cache
+D:\cosomeister\dam\di\simondice\Ejercicios\21.- SimonDice\SimonDice\obj\Debug\SimonDice.Form1.resources
+D:\cosomeister\dam\di\simondice\Ejercicios\21.- SimonDice\SimonDice\obj\Debug\SimonDice.Properties.Resources.resources
+D:\cosomeister\dam\di\simondice\Ejercicios\21.- SimonDice\SimonDice\obj\Debug\SimonDice.csproj.GenerateResource.cache
+D:\cosomeister\dam\di\simondice\Ejercicios\21.- SimonDice\SimonDice\obj\Debug\SimonDice.csproj.CoreCompileInputs.cache
+D:\cosomeister\dam\di\simondice\Ejercicios\21.- SimonDice\SimonDice\obj\Debug\SimonDice.exe
+D:\cosomeister\dam\di\simondice\Ejercicios\21.- SimonDice\SimonDice\obj\Debug\SimonDice.pdb

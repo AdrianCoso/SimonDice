@@ -143,9 +143,36 @@ namespace SimonDice.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream pong {
+        internal static System.IO.UnmanagedMemoryStream pong1 {
             get {
-                return ResourceManager.GetStream("pong", resourceCulture);
+                return ResourceManager.GetStream("pong1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream pong2 {
+            get {
+                return ResourceManager.GetStream("pong2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream pong3 {
+            get {
+                return ResourceManager.GetStream("pong3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream pong4 {
+            get {
+                return ResourceManager.GetStream("pong4", resourceCulture);
             }
         }
         
