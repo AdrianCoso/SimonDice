@@ -184,5 +184,15 @@ namespace SimonDice.Properties {
                 return ResourceManager.GetStream("ponglong", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap power_off_button {
+            get {
+                object obj = ResourceManager.GetObject("power-off-button", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
